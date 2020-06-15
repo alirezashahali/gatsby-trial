@@ -1,9 +1,9 @@
 ---
-title: 'My First AMA'
-date: '2017-08-21'
-description: 'My first AMA :)'
+title: 'Rick sanches baby'
+date: '2020-06-02'
+description: 'Rick sanches glowing through'
 ---
 
-Thank you everyone who enjoyed the AMA! It was my first one and I'd love to do it again.
+Some of Rick's geniousness.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s_1lP4CBKOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
